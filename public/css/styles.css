@@ -1,0 +1,80 @@
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+	font-size: 3.5rem;
+  }
+}
+.logo{
+	height: 30px;
+}
+.bgcolor{
+	background-color: red;
+	height: 30px;
+	color: white;
+	justify-content: end;
+	margin-top: 10px;
+}
+.icons{
+	justify-content: end;
+	align-items:flex-end ;
+	text-align: right;
+}
+.bgimage{
+	height: 450px;
+	background-image: url('../images/bg.jpg');
+	background-blend-mode: overlay;
+	background-color: orangered;
+	background-position: bottom;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.images{
+	margin-top: 30px;
+	height: 50px;
+}
+.texts{
+	margin-top: 30px;
+}
+.form-con{
+	margin-top: 100px;
+}
+.search-bar{
+	margin-top: 80px;
+}
+.bg-dark {
+    background-color: red!important;
+}
+.search-w{
+	width: 800px!important;
+}
+.border{
+	border: 5px solid black;
+	margin-right: 5px;
+	color: black;
+}
+.fa-facebook {
+  	color: white;
+  	margin-right: 5px;
+}
+.fa-twitter {
+  	color: white;
+  	margin-right: 5px;
+}
+.fa-linkedin{
+	color: white;
+	margin-right: 5px;
+}
+.fa-instagram{
+	color: white;
+}
+.navbar-dark .navbar-brand {
+    color: black;
+    font-family: sans-serif;
+}
